@@ -1,4 +1,4 @@
-## Swift framework template
+## Swift cross platform framework template
 A template to jumpstart your swift cross-platform framework
 
 ## Prerequisites

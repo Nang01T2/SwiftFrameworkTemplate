@@ -1,0 +1,7 @@
+{
+    "project_name": "Project Name",
+    "date": "{% now 'local' %}",
+    "author": "Author",
+    "email": "Email",
+    "git_url": ""
+}
